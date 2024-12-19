@@ -1,7 +1,7 @@
-<idea-plugin version="2">
+<idea-plugin>
   <id>intellij.frontendalignment</id>
   <name>Front End Alignment</name>
-  <version>1.1</version>
+  <version>1.2</version>
   <vendor url="https://github.com/jmulieri/front-end-alignment">Jon Mulieri</vendor>
 
   <description>Front End Alignment provides a simple action 'Regex Align' for aligning selected lines of code according to a regular expression.</description>
@@ -10,7 +10,7 @@
 
   <depends>com.intellij.modules.platform</depends>
 
-  <idea-version since-build="107.105"/>
+  <idea-version since-build="231"/>
 
   <application-components>
       <component>
